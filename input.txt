@@ -1,0 +1,10 @@
+int main()
+{
+do
+{
+var=expr+expr
+var=exp;
+}
+while(T);
+return(num);
+}
